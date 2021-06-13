@@ -1,0 +1,48 @@
+.navbar1{
+    height: 70px;
+    width: 100%;
+    background-color: #050505;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.brand_name {
+    font-size: 28px;
+    font-weight: 500;
+    color: #faf7f7;
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 12px;
+}
+
+.nav_menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.nav_link{    
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20px;
+    border-bottom: 5px solid green;
+}
+
+
+.badge{
+    width: 50px;
+    height: 35px;
+    margin: 5px;
+    border-radius: 20px;
+    align-items: center;
+    color: white;
+    background-color: gray;
+    font-size: 20px;
+    font-weight: 600;
+}

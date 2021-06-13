@@ -1,0 +1,42 @@
+.item_container{
+    margin-top: 20px;
+    height: 140px;
+    width: 80%;
+    border-bottom: 1px solid gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.item_image{
+    margin-left: 10px;
+    width: 115px;
+    object-fit: cover;
+    padding: 2px;
+}
+
+.item_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    padding: 30px;
+}
+
+.item_title{
+    font-size: 25px; 
+}
+
+.item_price{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.buy{
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: rgb(64, 226, 104);
+    font-size: 20px;
+    font-weight: 700;
+}

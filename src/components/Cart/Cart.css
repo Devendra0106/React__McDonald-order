@@ -1,0 +1,38 @@
+.total {
+display: flex;
+flex-direction: column;
+padding: 10px;
+justify-content: space-between;
+border: 1px solid gray;
+align-items: flex-start;
+font-weight: bold;
+font-size: 1.5rem;
+margin: 30px 0;
+width: 300px;
+max-height: 230px;
+}
+
+.empty{
+    padding: 30px 20px;
+    margin: 20px 20px;
+}
+
+.summary{
+    width: 100%;
+    padding: 10px;
+    border-bottom: 2px solid green;
+}
+
+.section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: rgb(14, 13, 13);
+}
+
+.val{
+    color: rgb(21, 26, 21);
+}

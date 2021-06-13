@@ -1,0 +1,11 @@
+.header{
+    width: 90%;
+    padding: 13px;
+    border-bottom: 2px solid rgb(72, 224, 72);
+}
+
+.menu{
+    width: 90%;
+    margin-top: 10px;
+    padding: 20px;
+}
